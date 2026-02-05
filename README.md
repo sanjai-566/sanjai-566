@@ -13,6 +13,11 @@
 
 ---
 
+## 🏅 Certifications
+![SQL Intermediate](https://img.shields.io/badge/SQL-Intermediate-blue?logo=postgresql&logoColor=white) ![Yukthi CTF](https://img.shields.io/badge/Yukthi-CTF%20Participant-orange?logo=hackthebox&logoColor=white)
+ ![IBM SkillsBuild](https://img.shields.io/badge/IBM%20SkillsBuild-Cybersecurity-052FAD?logo=ibm&logoColor=white) ![Cybersecurity Workshop](https://img.shields.io/badge/Cybersecurity-Workshop-green)
+
+
 ## 🔭 I'm Currently Working On
 - Improving my **troubleshooting skills**
 - Practicing **networking and security labs**
