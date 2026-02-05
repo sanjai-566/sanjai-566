@@ -1,16 +1,57 @@
-## Hi there 👋
+# 👋 Hey there, I'm **Sanjai**
 
-<!--
-**sanjai-566/sanjai-566** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Cybersecurity Graduate | SOC & IT Support Enthusiast  
+🔭 Exploring Security, Networking, Frontend & Real-World Labs
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 About Me
+- 🛠 Interested in Cybersecurity, IT Support, and Frontend Development
+- 🧠 Passionate about troubleshooting, threat detection, and system support
+- 📚 Continuously learning through labs and hands-on practice
+- 📍 Based in India
+
+---
+
+## 🔭 I'm Currently Working On
+- Improving my **troubleshooting skills**
+- Practicing **networking and security labs**
+- Building small projects using **JavaScript, SQL, and Python**
+- Learning **frontend development**
+
+---
+
+## 🛠 Skills & Tools
+
+### 💻 Operating Systems
+- Windows
+- Linux (Ubuntu, Kali)
+
+### 🌐 Networking
+- TCP/IP, DNS, DHCP
+- Basic Routing & Switching
+
+### 🔐 Security Tools
+- Wireshark
+- Nmap
+- Metasploit (Basics)
+
+### 🧰 IT Help Desk Tools
+- Active Directory (Basics)
+- Ticketing Systems (Concepts)
+- Remote Desktop & System Troubleshooting
+
+### 🎨 Frontend Development
+- HTML
+- CSS
+- JavaScript
+
+### 📊 Languages
+- Python
+- JavaScript
+- SQL
+
+---
+
+⭐ *Learning, building, and improving every day.*
+
