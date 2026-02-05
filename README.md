@@ -41,11 +41,6 @@
 - Ticketing Systems (Concepts)
 - Remote Desktop & System Troubleshooting
 
-### 🎨 Frontend Development
-- HTML
-- CSS
-- JavaScript
-
 ### 📊 Languages
 - Python
 - JavaScript
