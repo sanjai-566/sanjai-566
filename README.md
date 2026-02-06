@@ -53,5 +53,9 @@
 
 ---
 
+### 📂 Projects
+👉 View all my projects: https://github.com/sanjai-566/projects
+
+
 ⭐ *Learning, building, and improving every day.*
 
